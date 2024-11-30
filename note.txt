@@ -1,0 +1,6 @@
+- Them vao hang doi R(rear) tang 1
+- Xoa khoi hang doi F(front) tang 1
+
+- Khai bao Node va Queue
++ Moi node tuong trung cho mot khach hang (bao gom id khach hang, ten san pham, gia tien, so luong, tong so tien phai thanh toan)
++ Queue la hang doi cua moi node
